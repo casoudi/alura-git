@@ -7,10 +7,9 @@
 <body>
     <ul>
         <li>Vagrant caroline</li>
-        <li>Docker Eloa</li>
-        <li>Ansiblewill</li>
+        <li>Docker</li>
+        <li>Ansible</li>
         <li>Integração Continua</li>
-	<li>Ansiblewill e carol</li>
     </ul>
 </body>
 </html>
